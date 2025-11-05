@@ -1,6 +1,6 @@
 # Customer Churn Prediction using Machine Learning
 
-##  overview
+##  Overview
 
 This project focuses on predicting customer churn for a telecommunications company. By analyzing historical customer data, a machine learning model is built to identify customers who are likely to leave (churn). This predictive model can help the company proactively offer incentives or address issues to retain valuable customers.
 
